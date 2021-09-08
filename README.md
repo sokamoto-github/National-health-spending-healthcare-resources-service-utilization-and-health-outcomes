@@ -16,7 +16,7 @@ data: <br>
 code: Stata's do.files to obtain datasets, figures, and tables are stored in this file. <br>
 figures: This includes all the figures in the form of gph, png, eps, and pdf <br>
 tables: This includes the spreadsheet representing the tables <br>
-<br>
+
 Author information: <br>
 <b>Takanao Tanaka</b>, MA<sup>1)</sup>, <b>Shohei Okamoto</b>, PhD<sup>2, 3)</sup>, and <b>David Canning</b>, PhD<sup>4)</sup><br>
 <br>
