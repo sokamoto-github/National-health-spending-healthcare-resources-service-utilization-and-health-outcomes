@@ -1,8 +1,8 @@
 # National Health Spending, Health-Care Resources, Service Utilization, and Health Outcomes
 
 Codes and data for <br>
-<font size="16"><b>Tanaka T, Okamoto S, Canning D: National Health Spending, Health-Care Resources, Service Utilization, and Health Outcomes. <br>
-  <i>American Journal of Epidemiology</i></b>, First Published Online, 15 June 2021: https://doi.org/10.1093/aje/kwab179 <br> </font>
+p><<font size="16"><b>Tanaka T, Okamoto S, Canning D: National Health Spending, Health-Care Resources, Service Utilization, and Health Outcomes. <br>
+  <i>American Journal of Epidemiology</i></b>, First Published Online, 15 June 2021: https://doi.org/10.1093/aje/kwab179 <br> </font></p>
 
 Takanao Tanaka, MA<sup>1)</sup>, Shohei Okamoto, PhD<sup>2, 3)</sup>, and David Canning PhD<sup>4)</sup><br>
 <br>
