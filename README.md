@@ -3,7 +3,7 @@
 Codes and data for <br>
 <font size="7"><b>Tanaka T, Okamoto S, Canning D: National Health Spending, Health-Care Resources, Service Utilization, and Health Outcomes. <br>
   <i>American Journal of Epidemiology</i></b>, First Published Online, 15 June 2021: https://doi.org/10.1093/aje/kwab179 <br> </font>
-<br>
+
 1.	Github Respiratory <br>
 This is published on 8 September, 2021. You can find all the available information at <br>
 https://github.com/sokamoto-github/National-health-spending-healthcare-resources-service-utilization-and-health-outcomes <br>
