@@ -18,7 +18,7 @@ figures: This includes all the figures in the form of gph, png, eps, and pdf <br
 tables: This includes the spreadsheet representing the tables <br>
 
 Author information: <br>
-<b>Takanao Tanaka</b>, MA<sup>1)</sup>, <b>Shohei Okamoto</b>, PhD<sup>2, 3)</sup>, and <b>David Canning</b>, PhD<sup>4)</sup><br>
+<b>Takanao Tanaka</b>, MA<sup>1)</sup>, <b>Shohei Okamoto</b>, PhD<sup>2, 3)</sup>, <b>David Canning</b>, PhD<sup>4)</sup><br>
 <br>
 <sup>1)</sup> Division of Social Science, Hong Kong University of Science and Technology, Hong Kong. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Scholar:&nbsp;https://scholar.google.com/citations?user=6R5ionwAAAAJ&hl=ja&authuser=1 <br>
